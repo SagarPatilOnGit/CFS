@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AspnetCoreServiceTest/bin/Debug/netcoreapp2.1
+/AspnetCoreServiceTest/obj
+/CFSAspnetCoreService/bin/Debug/netcoreapp2.1
+/CFSAspnetCoreService/obj
+/CFSClient/bin/Debug
+/CFSClient/obj/Debug
+/CFSService/bin
+/CFSService/obj/Debug
+/CFSService/CFSService.csproj.user
+/CFSWeb/bin
+/CFSWeb/obj/Debug
+/CFSWeb/CFSWeb.csproj.user
+/packages
+/WebApplication1/obj
+/WebApplication1/bin/Debug/netcoreapp2.1
+/CFSAspnetCoreService/CFSAspnetCoreService.csproj.user
